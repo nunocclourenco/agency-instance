@@ -11,23 +11,23 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: SISTEMIC-RF
+    text: Automated synthesis methodology for reliable RF integrated circuits
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "FOR WIDELY AVAILABLE SCIENCE"
+    text: "In the SISTEMIC-RF project several outreach activities to communicate the action will be done. Some of them include:"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "European Researchers’ Night"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "MSCA open lab day"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Student workshop at Instituto Superior Técnico"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "SISTEMIC-RF"
+    text: "Research project funded by the European Commission (contract nº 840212)"
+    body: "Due to the constant need for connectivity, radio-frequency (RF) circuits will be of upmost importance in applications developed for the Internet of Things (IoT), the fifth-generation (5G) broadband technology and electronic health (eHealth) monitoring. However, the design of RF circuits in nanometric technologies for IoT/5G/eHealth applications is becoming extraordinarily difficult due to the high complexity and demanding performances of such circuits/systems. The need for high performance, low power, low voltage and low area circuits is immense and traditional design methodologies based on iterative, mostly manual, processes are unable to meet such challenges. Consequently, current EDA tools are getting out-ofdate because they were developed to support that kind of traditional methodologies. Also, the short time-to-market demanded by nowadays IoT/5G/eHealth applications is creating a design gap, thus leading to a productivity decrease in the deployment of such IoT/5G/eHealth applications. In this framework, the focus of the SYSTEMIC-RF (Automated synthesis methodology for reliable RF integrated circuits) project is to develop a new design methodology that allows optimizationbased synthesis approaches of RF circuits, where the circuit sizing and layout are treated in a complete and automated integrated fashion, in order to achieve fully optimal designs in much shorter times than traditional approaches. Moreover, the methodology will also take into account circuits' and systems' time-zero and time-dependent variability, and will be integrated in a state-of-the-art EDA tool in order to ease its usability. This EDA tool will definitely help RF designers to meet the very demanding specifications of IoT/5G/eHealth applications in a reasonable time."
     section: about
 
   clients:
