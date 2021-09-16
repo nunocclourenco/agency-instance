@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: SISTEMIC-RF
-    text: Automated synthesis methodology for reliable RF integrated circuits
+    title: Automated synthesis methodology for reliable RF integrated circuits
+    text: SISTEMIC-RF
     button: Tell Me More
     buttonlink: "#services"
 
